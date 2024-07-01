@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+.homepage {
+  height: 100vh;
+  background-image: linear-gradient(rgba(36, 42, 46, 0.681),
+      rgba(36, 42, 46, 0.649)),
+    url('https://images.pexels.com/photos/2088282/pexels-photo-2088282.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+  background-size: cover;
+  background-position: center center;
+  object-fit: contain;
+}
+
+.homepage section {
+  display: flex;
+  flex-direction: column;
+  height: 85%;
+  align-items: center;
+  justify-content: center;
+  gap: 2.5rem;
+  text-align: center;
+}
+
+.homepage h1 {
+  font-size: 7.5rem;
+}
+
+.homepage h2 {
+  width: 80%;
+  font-size: 1.9rem;
+  color: var(--color-light--1);
+  /* color: rgb(80, 80, 80); */
+  margin-bottom: 2.5rem;
+}

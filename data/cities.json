@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Mhow",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-19T18:31:35.789Z",
+      "notes": "",
+      "position": {
+        "lat": "22.487318135347646",
+        "lng": "75.71094048953928"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Greater Noida",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-19T18:34:34.552Z",
+      "notes": "",
+      "position": {
+        "lat": "28.34795210432872",
+        "lng": "77.7006404219223"
+      },
+      "id": 73930387
+    }
+  ]
+}
